@@ -50,4 +50,3 @@ class Config(object):
     UPLOAD_AS_DOC = os.environ.get("UPLOAD_AS_DOC", "True")
     CLEAR_UNDELETED = os.environ.get("CLEAR_UNDELETED", "clearall")
     PYTDL_COMMAND = os.environ.get("PYTDL_COMMAND", "pytdl")
-    UPLOAD_AS_DOC_COMMAND = os.environ.get("UPLOAD_AS_DOC_COMMAND", "upload_as_doc")
