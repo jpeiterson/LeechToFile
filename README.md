@@ -1,11 +1,8 @@
-## For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
-## Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
-
-# Telegram Torrent Leecher 🔥🤖
+# Telegram Torrent Leecher 🔥🤖 | Leech To File
 
 ### A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-## This is a leech to FILE repo! Leech to STREAM(video) availabe here > [Stream](https://github.com/prgofficial/TorrentLeech-GDriVe/tree/stream)
+## This is a leech to FILE repo!
 
 
 # Benefits :-
@@ -28,7 +25,7 @@
 
 ## Installing
 
-### HEROKU SUPPORT REMOVED
+### HEROKU SUPPORT REMOVED - Suspend Issue
 
 ### IT's BETTER THAT WAY !!
 
